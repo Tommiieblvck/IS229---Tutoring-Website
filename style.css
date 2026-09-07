@@ -18,12 +18,13 @@ nav ul {
 
 nav ul li {
     display: inline;
-    margin-right:0 10px;
+    margin-right:0 15px;
 }
 
 nav a {
     text-decoration: none;
     color: #333;
+    padding: 5px 10px;
 }
 
 table {
