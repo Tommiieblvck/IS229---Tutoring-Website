@@ -22,7 +22,8 @@ It demonstrates a multi‑page website built with semantic HTML5 and basic CSS, 
 
 ## Validation
 All HTML files were tested with the W3C Validator.  
-Screenshots of validation results are included in the `/validation` files(v-index ....).
+Screenshots of validation results are included: 
+about.png, gallery.png, services.png, and contact.png.
 
 ## AI Use Declaration
 AI tools were used for guidance and explanations, plus the index page was completed using AI Copiliot, with the idea from home(index) page, i used AI Copilot to help and coded the other pages manually using the index page as a reference point.
