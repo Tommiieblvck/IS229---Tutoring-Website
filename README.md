@@ -17,7 +17,7 @@ It demonstrates a multi‑page website built with semantic HTML5 and basic CSS, 
 - GitHub Pages (site publication)
 
 ## How to View
-- Live site: [Insert GitHub Pages URL here]
+- Live site: https://tommiieblvck.github.io/IS229---Tutoring-Website/
 - Repository: [Insert GitHub Repo URL here]
 
 ## Validation
